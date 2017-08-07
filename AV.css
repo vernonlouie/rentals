@@ -1,0 +1,14 @@
+
+html, body {
+    /*height:         100%;*/
+    /*width:          100%;*/
+    font-family:    'Source Sans Pro', Helvetica, Arial, sans-serif;
+    color:          #757575;
+}
+
+.photo_box1 {
+    border: 10px solid #333;
+    width:  700px;
+    height: 525px;
+    /*margin: 0 20px 20px 0;*/
+}
